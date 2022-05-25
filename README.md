@@ -1,5 +1,4 @@
-# Laravel Shopify
-
+# Laravel Shopping
 Laravel Shopify is a simple package which helps to build robust integration into Shopify.
 
 ## Installation
